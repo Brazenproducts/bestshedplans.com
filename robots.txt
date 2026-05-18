@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestshedplans.com/sitemap.xml
